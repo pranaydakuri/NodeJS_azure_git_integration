@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-azure-demo",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Azure DevOps CI/CD demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "author": "Pranay",
+  "license": "MIT"
+}
